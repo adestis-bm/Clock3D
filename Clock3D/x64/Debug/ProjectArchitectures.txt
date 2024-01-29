@@ -1,0 +1,1 @@
+C:\Users\bm\source\repos\Clock3D\Clock3D\Clock3D.vcxproj;x64
